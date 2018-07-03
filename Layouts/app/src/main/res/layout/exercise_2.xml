@@ -27,7 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#17c411"
-        android:text="weight = 234"
+        android:text="weight = test commit"
         android:textSize="50dp"
         android:gravity="center"
         android:textColor="@android:color/white"
